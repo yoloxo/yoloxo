@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @yoloxo
-- 👀 I’m interested in React
+- 👀 I’m interested in Dart, Flutter, Go, Python and Java
 - 🌱 I’m currently learning Swift and iOS app development
-- 💞️ I’m looking to collaborate on my not very opensource project :)
-- 📫 How to reach me holla at me at zhendostan@gmail.com
+- 📫 How to reach me zhendostan@gmail.com
 
 <!---
 yoloxo/yoloxo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
