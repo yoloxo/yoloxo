@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yoloxo
-- 👀 I’m interested in Dart, Flutter, Go, Python and Java
-- 🌱 I’m currently learning Swift and iOS app development
-- 📫 How to reach me zhendostan@gmail.com
+- 👀 I’m interested in web development, SaaS, e-commerce and entrepreneurship
+- 🌱 I’m currently using Laravel and its ecosystem
+- 📫 How to reach me ydmtrnk@gmail.com
 
 <!---
 yoloxo/yoloxo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
